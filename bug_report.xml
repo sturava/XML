@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?> 
+ <issue>
+ <bug id="1">
+	<heading><b>Summary.</b> In submodule Рекомендации word Пользователь starts from different font case</heading>
+	<body><b>Description.</b> In submodule Рекомендации word Пользователь, first letters of the forms of the word Пользователь are not in some in upper, some in lower. Reprodused on: Win 7, GC 65
+	<b>Actual_result.</b>Different cases of the firs letters of the forms of the word Пользователь
+	<b>Expected_result.</b>Indentical case ofthe first letters of the forms of the word Пользователь
+	<b>Steps to reproduce</b>
+	   1.Open URL http://kot.ru
+	   2.Skroll to the end of the main page
+	   3.Click Важные рекомендации at the foter
+	   4.Skroll to the end of the red section Сообщайте нам обо всех нарушениях
+    </body>
+	<Severity>Minor</Severity>
+	<Priority>Low</Priority>
+	<Reproducible>Always</Reproducible>
+	<Symptom>Cosmetic fall</Symptom>
+	<Workaround>no</Workaround>
+	<Attachments>Скриншот</Attachments>
+	<Status>Open</Status>
+	</bug>
+ </issue>
