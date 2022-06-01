@@ -14,7 +14,7 @@
 	<Severity>Minor</Severity>
 	<Priority>Low</Priority>
 	<Reproducible>Always</Reproducible>
-	<Symptom>Cosmetic fall</Symptom>
+	<Symptom>Cosmetic fault</Symptom>
 	<Workaround>no</Workaround>
 	<Attachments>Скриншот</Attachments>
 	<Status>Open</Status>
