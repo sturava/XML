@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	 <person>
+         <LastName>Ivanova</LastName>,
+	     <Name>Ola</Name>
+	     <Age>35</Age>
+	     <NumPets>1</NumPets>
+	     <Salary>500</Salary>
+	</person>	 
